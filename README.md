@@ -51,6 +51,10 @@ Some tools and other skills:
 - Linux
 - OWASP ZAP, BurpSuite, GNS3, Iptables, Genymotion, etc
 
+## Languages
+
+- English fluent
+
 ## Work Experience
 
 __ITMO Department of Computer Network Technology at the Faculty of Secure Information Technologies__, Trainee Python Developer
