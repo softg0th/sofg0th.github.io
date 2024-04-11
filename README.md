@@ -8,11 +8,11 @@
 
 ## Currently
 
-Finishing my bachelor's degree and preparing to enter a master's program
+Graduating with a bachelor's degree and preparing to enter a master's degree
 
 ## Education
 
-__ITMO University__, Bachelor Student
+__ITMO University__, Bachelor Degree
 
 `Sep. 2020 - Current`
 School of Computer Technologies and Control, Faculty of Secure Information Technologies
@@ -54,3 +54,13 @@ __Alfa Bank__, DevSecOps Engineer
 `Jan. 2024 - Mar. 2024`
 
 - Refactoring, developing new features of backend part of Appsec SAST-platform
+
+## Contacts
+
+*Telegram*
+
+- https://t.me/softg0th
+
+*Email*
+
+- nesni248@gmail.com
