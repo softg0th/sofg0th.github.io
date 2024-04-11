@@ -17,6 +17,40 @@ __ITMO University__, Bachelor Degree
 `Sep. 2020 - Current`
 School of Computer Technologies and Control, Faculty of Secure Information Technologies
 
+## Courses
+
+Completed courses such as:
+
+- Operating Systems Foundation
+- Penteration Testing Foundation
+- Network Security Foundation
+- Cryptography Foundation
+- Mobile Security Foundation
+- Algorithms and Data Structures
+- Database Systems Foundation
+- Techical and Engineering Security Foundation
+- Cybersecurity Management Foundation
+- Several Digital Culture courses (Machine Learning Introduction, Foundation into Data Storage and Processing, etc)
+- D-Link corporate course Computer Networks Basics
+- Soft-Skills courses (Career Management, Communication and Team Building, Emotional Intelligence)
+
+## Skills
+
+Programming Languages:
+
+- Python (Advanced)
+- C/C++ (Basic)
+- Go (Basic)
+
+Some tools and other skills:
+
+- Docker
+- Very Basic K8S, Jenkins
+- SQL language
+- Databases and data storage systems (PostgreSQL, MongoDB, Redis)
+- Linux
+- OWASP ZAP, BurpSuite, GNS3, Iptables, Genymotion, etc
+
 ## Work Experience
 
 __ITMO Department of Computer Network Technology at the Faculty of Secure Information Technologies__, Trainee Python Developer
