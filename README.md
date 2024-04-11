@@ -8,7 +8,7 @@
 
 ## Currently
 
-Graduating with a bachelor's degree and preparing to enter a master's degree
+Graduating with a bachelor decree. Master program at ITMO as of September 2024.
 
 ## Education
 
