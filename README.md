@@ -81,7 +81,7 @@ __VK (VK Group, ex MailRu Group)__, Android Application Security Trainee
 
 `Jun. 2023 - Aug. 2023`
 
-- Design, creating the system of automatic security testing of one of the largest Russian stores of Android applications [RuStore](https://www.rustore.ru/) with mentor
+- Design, creating the tool of automatic security testing based on OWASP ZAP open API of one of the largest Russian stores of Android applications [RuStore](https://www.rustore.ru/) with mentor
 - Participated in moderation of Android applications, testing them for security using DAST
 - Participation in manual security testing of new features
 
